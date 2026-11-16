@@ -1,0 +1,5 @@
+# Keep diagnostic reports private
+Reports/
+
+# Ignore temporary files
+*.tmp
